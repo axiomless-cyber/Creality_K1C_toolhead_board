@@ -49,3 +49,57 @@
 
 Проект распространяется под лицензией **GNU GPL v3**.  
 Вы свободны использовать, изменять и распространять проект при соблюдении условий лицензии.
+
+---
+# Creality K1C Toolhead Board
+
+Custom toolhead printed circuit board for the **Creality K1C** 3D printer.  
+The project is focused on modifying the original toolhead design.
+
+The board is provided **without any installed electronic components**.
+
+---
+
+## 📸 Board Render
+
+![Toolhead board render](images/toolhead_board_render.png)
+
+*(PCB render)*
+
+---
+
+## 🔍 Overview
+
+This repository contains a complete set of files for self-manufacturing and modifying a toolhead board for the Creality K1C.  
+The project is suitable for users who want to remove the MCU- and driver-based board or use this PCB as a base for custom solutions.
+
+---
+
+## 📦 Repository Contents
+
+- 🧾 **Gerber files** — for PCB manufacturing  
+- 🧩 **PCB and schematic in EasyEDA** — for viewing and modification  
+- 🖼️ Board renders  
+
+---
+
+## ⚙️ Project Features
+
+- 🟢 PCB only (no components)
+- 🛠️ Ready for manufacturing
+- 🧪 Suitable for experiments and customization
+- 🔓 Fully open-source project
+
+---
+
+## ⚠️ Important Notice
+
+This project is provided **as is**, without any warranty of functionality.  
+Use, assembly, and modification of the board are done at your own risk.
+
+---
+
+## 📄 License
+
+This project is licensed under **GNU GPL v3**.  
+You are free to use, modify, and distribute it under the terms of this license
