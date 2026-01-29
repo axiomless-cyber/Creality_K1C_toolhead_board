@@ -1,4 +1,4 @@
-# Creality_K1C_toolhead_board
+# Creality K1C toolhead board
 Кастомная печатная плата головы (toolhead) для 3D-принтера **Creality K1C**.  
 Проект ориентирован на модификации конструкции оригинального toolhead.
 
