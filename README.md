@@ -21,6 +21,28 @@
 
 ---
 
+## Pinout
+**1, 2, 3** - Heatbreak fan
+**4, 9** - Termistor
+**5, 7, 21** - Filament
+**6, 10 12, 13** - Model fan
+**8, 11, 14, 20** - Stepper motor
+**15, 16, 17, 18, 19** - Lidar
+**22, 23** - Heater
+
+---
+## Что понадобиться:
+1. Провода 26AWG
+2. Провода 16AWG
+3. JST-HY2.0MM 2P
+4. JST-XHB2.54 2P
+5. ZX-MX1.25-5PWT
+6. ZX-MX1.25-4PZZ-Y 2 штуки
+7. ZX-MX1.25-3PZZ-Y
+8. BX-MX1.25-3PWZ-Y
+
+---
+
 ## 📦 Что есть в репозитории
 
 - 🧾 **Gerber-файлы** — для заказа платы у производителя  
@@ -72,6 +94,27 @@ The board is provided **without any installed electronic components**.
 
 This repository contains a complete set of files for self-manufacturing and modifying a toolhead board for the Creality K1C.  
 The project is suitable for users who want to remove the MCU- and driver-based board or use this PCB as a base for custom solutions.
+
+---
+## Pinout
+**1, 2, 3** - Heatbreak fan
+**4, 9** - Termistor
+**5, 7, 21** - Filament
+**6, 10 12, 13** - Model fan
+**8, 11, 14, 20** - Stepper motor
+**15, 16, 17, 18, 19** - Lidar
+**22, 23** - Heater
+
+---
+## Что понадобиться:
+1. Wires 26AWG
+2. Wires 16AWG
+3. JST-HY2.0MM 2P
+4. JST-XHB2.54 2P
+5. ZX-MX1.25-5PWT
+6. ZX-MX1.25-4PZZ-Y 2 pieces
+7. ZX-MX1.25-3PZZ-Y
+8. BX-MX1.25-3PWZ-Y
 
 ---
 
